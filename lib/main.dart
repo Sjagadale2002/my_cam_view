@@ -24,12 +24,7 @@ class _CCTVStreamScreenState extends State<CCTVStreamScreen> {
   late List<VlcPlayerController> _controllers;
   final List<String> _defaultStreamUrls = [
     // Keep you url here
-    "rtsp://admin:india%40789@192.168.1.100:554/Streaming/Channels/101", // Cam1
-    "rtsp://admin:india%40789@192.168.1.100:554/Streaming/Channels/201", // Cam2
-    "rtsp://admin:india%40789@192.168.1.100:554/Streaming/Channels/301", // Cam3
-    "rtsp://admin:india%40789@192.168.1.100:554/Streaming/Channels/401", // Cam4
-    "rtsp://admin:india%40789@192.168.1.100:554/Streaming/Channels/501",
-    "rtsp://admin:india%40789@192.168.1.100:554/Streaming/Channels/601",
+    //add your camera rtsp url here 
   ];
   List<String> _currentStreamUrls = [];
 

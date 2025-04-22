@@ -30,4 +30,4 @@ A powerful and simple **CCTV Surveillance App** built with **Flutter**. It allow
 
 1. Clone the repository:
 ```bash
-
+https://github.com/Sjagadale2002/my_cam_view.git

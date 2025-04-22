@@ -1,16 +1,33 @@
 # my_cam_view
 
-A new Flutter project.
+# 📷 CCTV Surveillance App (Flutter)
 
-## Getting Started
+A powerful and simple **CCTV Surveillance App** built with **Flutter**. It allows you to stream live footage from your office/home cameras using **RTSP protocol**—watch anywhere, anytime!
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- 🔴 Live CCTV streaming using RTSP links  
+- 🌐 Remote access using port forwarding  
+- 💡 Clean and modern Flutter UI  
+- 🌓 Dark mode support (optional)  
+- 🛜 Works over Wi-Fi & mobile networks  
+- 📱 Responsive design for all screen sizes  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🛠️ Tech Stack
+
+- **Flutter** & **Dart**  
+- **video_player** / **flutter_vlc_player** / **better_player** (for RTSP streaming)  
+- **Material 3 Design**  
+- **State Management** (Provider or setState)
+
+---
+
+## 📦 Setup & Installation
+
+1. Clone the repository:
+```bash
+
